@@ -12,3 +12,5 @@
 | Word Embeddings Explaination                                     | [https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)                                     |
 | How GPT3 Works                                                   | [https://jalammar.github.io/how-gpt3-works-visualizations-animations/?ref=txt.cohere.com](https://jalammar.github.io/how-gpt3-works-visualizations-animations/?ref=txt.cohere.com)                                       |
 | A Gentle Intro to Chaining LLMs, Agents, and utils via LangChain | [https://towardsdatascience.com/a-gentle-intro-to-chaining-llms-agents-and-utils-via-langchain-16cd385fca81](https://towardsdatascience.com/a-gentle-intro-to-chaining-llms-agents-and-utils-via-langchain-16cd385fca81) |
+| How to Build a GenAI Chatbot Using LangChain and Redis | [https://redis.io/learn/howtos/solutions/vector/gen-ai-chatbot](https://redis.io/learn/howtos/solutions/vector/gen-ai-chatbot) |
+
