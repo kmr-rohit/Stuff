@@ -6,6 +6,7 @@
 
 | Description                                                      | Link                                                                                                                                                                                                                     |
 | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Design a Scalable Notification Service - System Design Interview | [https://blog.algomaster.io/p/design-a-scalable-notification-service](https://blog.algomaster.io/p/design-a-scalable-notification-service) |
 | Beyond the Leaderboard: Unpacking Function Calling Evaluation | [https://www.databricks.com/blog/unpacking-function-calling-eval](https://www.databricks.com/blog/unpacking-function-calling-eval) |
 | Cohere LLMU Course                                               | [https://cohere.com/llmu](https://cohere.com/llmu)                                                                                                                                                                       |
 | Transformer Explaination                                         | [https://jalammar.github.io/illustrated-transformer/?ref=txt.cohere.com](https://jalammar.github.io/illustrated-transformer/?ref=txt.cohere.com)                                                                         |
