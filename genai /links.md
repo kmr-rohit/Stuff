@@ -6,6 +6,7 @@
 
 | Description                                                      | Link                                                                                                                                                                                                                     |
 | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name Mangling and Function Overloading | C++ Object Model Internals | [https://www.avabodh.com/cxxin/namemangling.html](https://www.avabodh.com/cxxin/namemangling.html) |
 | Database Sharding: Concepts & Examples | MongoDB | [https://www.mongodb.com/resources/products/capabilities/database-sharding-explained](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained) |
 | Design a Scalable Notification Service - System Design Interview | [https://blog.algomaster.io/p/design-a-scalable-notification-service](https://blog.algomaster.io/p/design-a-scalable-notification-service) |
 | Beyond the Leaderboard: Unpacking Function Calling Evaluation | [https://www.databricks.com/blog/unpacking-function-calling-eval](https://www.databricks.com/blog/unpacking-function-calling-eval) |
