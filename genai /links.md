@@ -6,6 +6,7 @@
 
 | Description                                                      | Link                                                                                                                                                                                                                     |
 | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The WhatsApp Architecture Facebook Bought For $19 Billion - High Scalability - | [https://highscalability.com/the-whatsapp-architecture-facebook-bought-for-19-billion/](https://highscalability.com/the-whatsapp-architecture-facebook-bought-for-19-billion/) |
 | C++ Object Model Internals | [https://www.avabodh.com/cxxin/namemangling.html](https://www.avabodh.com/cxxin/namemangling.html) |
 | Database Sharding: Concepts & Examples  | [https://www.mongodb.com/resources/products/capabilities/database-sharding-explained](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained) |
 | Design a Scalable Notification Service - System Design Interview | [https://blog.algomaster.io/p/design-a-scalable-notification-service](https://blog.algomaster.io/p/design-a-scalable-notification-service) |
